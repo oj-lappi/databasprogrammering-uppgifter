@@ -4,9 +4,9 @@ Använd databasen forum.db för uppgifterna.
 
 Spara varje uppgift i en fil: uppgift1.sql, uppgift2.sql, osv.
 
-1. Vilka trådar gjorda av användaren beerit?
+1. Vilka trådar gjorda av användaren berit?
 
-2. Hur många trådar är gjorda av användaren beerit?
+2. Hur många trådar är gjorda av användaren berit?
 
 3. Hur många poster finns i tråd 1?
 
