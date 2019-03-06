@@ -12,7 +12,7 @@ Spara varje uppgift i en fil: uppgift1.sql, uppgift2.sql, osv.
 
 4. Lista alla trådar och hur många poster det finns i dem
 
-5. Skriv ut för varje post i tråden med id = 1: Vem som skrivit posten, vad meddelandet är, och användarens "poäng" d.v.s. hur många poster de gjort
+5. Skriv ut för varje post i tråden "Välkommen till forumet": Vem som skrivit posten, vad meddelandet är, och användarens "poäng" d.v.s. hur många poster de gjort
 
 	Om du är färdig, läs genom alla trådar i forumet genom att byta id, de är rätt så roliga.
 
